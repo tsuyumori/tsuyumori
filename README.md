@@ -1,4 +1,4 @@
-## Hi there 👋
+# Tsuyumori
 
 <!--
 **tsuyumori/tsuyumori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My language stack
 
 <img src="https://github.com/user-attachments/assets/6c93a7e7-c95c-4234-ac96-ae4f8af9c594" width="64px"/>
 <img src="https://github.com/user-attachments/assets/40ebf984-438d-43a6-97b1-1a06d9afc9e5" width="64px"/>
