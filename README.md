@@ -1,22 +1,11 @@
-# Tsuyumori
+# 🌲 Tsuyumori 🌲
 
-<!--
-**tsuyumori/tsuyumori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💽 Systems programmer and Minecraft modder
+- 🧮 Certified embedded lover
+- 🔺 Still learning how to use GPU APIs
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### My language stack
-
+### 🍙 My language stack
+<br>
 <img src="https://github.com/user-attachments/assets/6c93a7e7-c95c-4234-ac96-ae4f8af9c594" width="64px"/>
 <img src="https://github.com/user-attachments/assets/40ebf984-438d-43a6-97b1-1a06d9afc9e5" width="64px"/>
 <img src="https://github.com/user-attachments/assets/201a7b38-664e-40b3-b032-5c6094401cb4" width="64px"/>
